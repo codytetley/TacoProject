@@ -1,0 +1,88 @@
+body {
+    margin:0;
+     line-height: 1.6;
+    font-size: 17px;
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    background-image: url("https://i.ibb.co/Fq86KZ9/imageonline-co-darkenimage-1.png")
+    
+    }
+    
+    #showcase {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    padding: 0 20px;
+    text-align:center;
+    
+    }
+    
+    #showcase h1{
+    font-size: 60px;
+    color: #006341;
+    margin: 0;
+     padding: 0;
+    font-weight: bold;
+    }
+    
+    #showcase p{
+    font-size: 30px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    }
+    
+    #showcase .button{
+    font-size: 30px;
+    text-decoration:none;
+    color: #C8102E;
+    border: red 1px solid;
+    padding: 10px 20px;
+    border-radius:10px;
+    margin-top:20px;
+    font-weight: bold;
+    }
+    
+    
+    
+    #section-1 {
+    padding:20px;
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    
+    }
+    
+    
+    .container-1 {
+    display: flex;
+    text-align:center;
+    background: linear-gradient(to bottom, #006341 0%, #FFFFFF 47%, #C8102E 100%);
+    }
+    
+    
+    .container-1 h2{
+    font-size: 40px;
+    font-weight: bold;
+    
+     }
+    .container-1 p {
+    font-size: 25px;
+    font-weight: bold;
+    }
+    
+    .box{
+    flex:1;
+    border: 3px solid black;
+    
+    }
+    
+    
+    <a href="https://ibb.co/QjY9fSZ"><img src="https://i.ibb.co/Fq86KZ9/imageonline-co-darkenimage-1.png" alt="imageonline-co-darkenimage-1" border="0"></a>
